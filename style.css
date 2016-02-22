@@ -148,12 +148,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-allgemein {
-    background: url('img/g3_torte.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-torte.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-allgemein {
@@ -164,12 +164,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-berufsschule {
-    background: url('img/g3_torte.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-torte.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-berufsschule {
@@ -180,12 +180,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-auszeichnung {
-    background: url('img/g3_auszeichnung.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-auszeichnung.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-auszeichnung {
@@ -196,12 +196,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-gesundheit {
-    background: url('img/g3_menschen.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-menschen.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-gesundheit {
@@ -212,12 +212,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-computer {
-    background: url('img/g3_computer.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-computer.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-computer {
@@ -228,12 +228,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-kochmuetze {
-    background: url('img/g3_kochmuetze.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-kochmuetze.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-kochmuetze {
@@ -244,12 +244,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-haus {
-    background: url('img/g3_haus.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-haus.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-haus {
@@ -260,12 +260,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-praesentation {
-    background: url('img/g3_praesentation.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-praesentation.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-praesentation {
@@ -276,12 +276,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-olympia {
-    background: url('img/g3_olympia.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-olympia.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-olympia {
@@ -292,12 +292,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-menschen {
-    background: url('img/g3_menschen.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-menschen.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-menschen {
@@ -308,12 +308,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-rollstuhl {
-    background: url('img/g3_rollstuhl.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-rollstuhl.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-rollstuhl {
@@ -324,12 +324,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-wirtschaft {
-    background: url('img/g3_haus.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-haus.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-wirtschaft {
@@ -340,12 +340,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-wirtschaftverwaltung {
-    background: url('img/g3_computer.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-computer.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-wirtschaftverwaltung {
@@ -356,12 +356,12 @@ textarea, input[type="submit"], .site-description, .menu-primary-items a,
 }
 
 .icon-vorbereitung {
-    background: url('img/g3_kochmuetze.png') !important;
-    background-size: 38px 38px !important;
+    background: url('img/icon-kochmuetze.png') !important;
+    background-size: 38px 52px !important;
     background-repeat: no-repeat !important;
     padding: 10px 0 20px 54px !important;
 /*    background-position: initial; */
-    background-position: left 0px top 14px;
+    background-position: left 0px top 0px;
     min-height: 66px !important;
 }
 .maincontent .post-categories .icon-vorbereitung {
