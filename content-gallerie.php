@@ -14,7 +14,7 @@ get_header();
 	<article>
 	    <?php unlimited_featured_image(); ?>
         <?php get_template_part('content/post-meta'); ?>
-		<div class="post-padding-container">
+		<div class="post-padding-container" info="content-gallerie">
 		    <div class='post-header'>
 		        <h1 class='post-title'><?php the_title(); ?></h1>
 				<?php get_template_part('content/post-categories'); ?>

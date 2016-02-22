@@ -4,7 +4,7 @@
 		<?php unlimited_featured_image(); ?>
 		<?php get_template_part('content/post-meta'); ?>
 		<?php get_template_part('content/post-categories'); ?>
-		<div class="post-padding-container">
+		<div class="post-padding-container" info="content-archive">
 			<div class='post-header'>
 				<h1 class='post-title'><a href="<?php echo get_permalink(); ?>"><?php the_title(); ?></a></h1>
 				<?php get_template_part('content/post-categories'); ?><!-- get_template_part -->

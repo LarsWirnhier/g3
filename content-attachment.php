@@ -1,7 +1,7 @@
 <div <?php post_class(); ?> info="content-attachment">
 	<?php do_action( 'attachment_before' ); ?>
 	<article>
-		<div class="post-padding-container">
+		<div class="post-padding-container" info="content-attachment">
 			<div class='post-header'>
 				<h1 class='post-title'><?php the_title(); ?></h1>
 			</div>

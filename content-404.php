@@ -1,6 +1,6 @@
 <div class="entry">
 	<article>
-		<div class="post-padding-container">
+		<div class="post-padding-container" info="404">
 			<div class='post-header'>
 				<h1 class='post-title'><?php _e('404: Page Not Found', 'unlimited'); ?></h1>
 			</div>

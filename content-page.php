@@ -2,7 +2,7 @@
 	<?php do_action( 'page_before' ); ?>
 	<article>
 		<?php unlimited_featured_image(); ?>
-		<div class="post-padding-container">
+		<div class="post-padding-container" info="content-page">
 			<div class='post-header'>
 				<h1 class='post-title'><?php the_title(); ?></h1>
 			</div>
