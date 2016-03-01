@@ -1109,6 +1109,7 @@ header#site-header.site-header {
     display: block;
     opacity: 1;
 	visibility: visible;
+	position: relative;
 }
 
 #menu-startmenu .current_page_item > a {
@@ -1311,10 +1312,13 @@ header#site-header.site-header {
     -ms-transform: translateY(3px);
     transform: translateY(3px);
   }
-  .menu-item-has-children > a:hover + ul, .menu-item-has-children > a:active + ul, .menu-item-has-children > a:focus + ul,
-  .menu-unset .page_item_has_children > a:hover + ul,
-  .menu-unset .page_item_has_children > a:active + ul,
-  .menu-unset .page_item_has_children > a:focus + ul {
+  .sidebar-primary .menu-item-has-children:hover + ul,
+  .sidebar-primary .menu-item-has-children > a:hover + ul, 
+  .sidebar-primary .menu-item-has-children > a:active + ul, 
+  .sidebar-primary .menu-item-has-children > a:focus + ul,
+  .sidebar-primary .menu-unset .page_item_has_children > a:hover + ul,
+  .sidebar-primary .menu-unset .page_item_has_children > a:active + ul,
+  .sidebar-primary .menu-unset .page_item_has_children > a:focus + ul {
     opacity: 1;
     visibility: visible;
   }
